@@ -36,7 +36,7 @@
   <a href="https://www.instagram.com/anelka.bag" target="_blank" style="margin-right: 12px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" />
   </a>
-  <a href="https://hashnode.com/@anelkamd" target="_blank">
+  <a href="https://hashnode.com/@anelka" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" height="30" />
   </a>
 </p>
