@@ -11,7 +11,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on [ BagUi ](https://bagui.vercel.app/)
+- 🔭 I’m currently working on [ Bag\Ui ](https://bagui.vercel.app/)
 
 - 🌱 I’m currently improving my skills in **React.js, Next.js, Tailwind CSS, JavaScript**
 
