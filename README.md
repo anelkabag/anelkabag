@@ -2,16 +2,16 @@
 <h3 align="center">Frontend Developer building modern and high-quality web applications</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=anelkamd&label=Profile%20views&color=0e75b6&style=flat" alt="Anelka Bag" />
+  <img src="https://komarev.com/ghpvc/?username=anelkabag&label=Profile%20views&color=0e75b6&style=flat" alt="Anelka Bag" />
 </p>
 
 <p align="left">
-  <a href="https://twitter.com/anelka_md" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/anelka_md?logo=twitter&style=for-the-badge" alt="anelka_md" />
+  <a href="https://twitter.com/anelkabag" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/anelkabag?logo=twitter&style=for-the-badge" alt="anelkabag" />
   </a>
 </p>
 
-- 🔭 I’m currently working on [Kivu Event](https://github.com/anelkamd/Kivu-Event-V2)
+- 🔭 I’m currently working on [Bag\Ui]((https://bagui.vercel.app/))
 
 - 🌱 I’m currently improving my skills in **React.js, Next.js, Tailwind CSS, JavaScript**
 
@@ -27,7 +27,7 @@
   <a href="https://dev.to/anelkamd" target="_blank" style="margin-right: 12px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30" />
   </a>
-  <a href="https://twitter.com/anelka_md" target="_blank" style="margin-right: 12px;">
+  <a href="https://twitter.com/anelkabag" target="_blank" style="margin-right: 12px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" />
   </a>
   <a href="https://www.linkedin.com/in/anelkabag" target="_blank" style="margin-right: 12px;">
