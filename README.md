@@ -17,7 +17,7 @@
 
 - 💡 I build modern, animated and scalable web interfaces
 
-- 📫 How to reach me: **anelka.bag@gmail.com**
+- 📫 How to reach me: **anelka.bag@gmail.com** [ My Portfolio ](https://www.anelka.life/)
 
 ---
 
